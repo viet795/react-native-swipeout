@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dancormier/react-native-swipeout.git"
+    "url": "git@github.com:viet795/react-native-swipeout.git"
   },
   "keywords": [
     "react-native",
@@ -24,9 +24,9 @@
   "author": "Dan Cormier",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dancormier/react-native-swipeout/issues"
+    "url": "https://github.com/viet795/react-native-swipeout/issues"
   },
-  "homepage": "https://github.com/dancormier/react-native-swipeout",
+  "homepage": "https://github.com/viet795/react-native-swipeout",
   "dependencies": {
     "create-react-class": "^15.6.0",
     "prop-types": "^15.5.10",
